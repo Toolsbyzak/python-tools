@@ -2,8 +2,6 @@
 Open source python tools
 these tools are open source so you can check the code and modify the source code of them !
  
- game's link : https://mega.nz/file/qxsWibzB#DK9aBBxToQMhg5TkULk8-HQy85Gf7F4nLzyF6ALYHiQ
- 
  calculator's link : https://mega.nz/file/LsMnHLjY#BFDvxqrdjdSUySjJkwATroqtIfWkhwAxtzPIK_AHXNw
  
  the clock gui's link : https://mega.nz/file/7gkHSDiC#20YHH3DlEXC3Fo6uahkpqEKvG6Ahi_q3sdeLIkLClwc
