@@ -14,5 +14,7 @@ these tools are open source so you can check the code and modify the source code
 
 
 this is compleatly safe
- Game Guess V2 had an exploit that is why I've removed it
- Exploit/attack name : Trojan:Win32/Wacatac.B!ml
+
+Game Guess V2 had an exploit that is why I've removed it
+
+Exploit/attack name : Trojan:Win32/Wacatac.B!ml
